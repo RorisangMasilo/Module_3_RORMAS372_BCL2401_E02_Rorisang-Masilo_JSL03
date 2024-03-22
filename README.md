@@ -1,6 +1,6 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
-Loom Recording Link: [Insert Link]
+Loom Recording Link: [(https://www.loom.com/share/9e99ef09f1b04fc0a80bd4fd6e0afbf1?sid=c0abbe9b-9f41-4a1a-9ac8-6249968d5868)]
 
 # Project Overview
 
@@ -32,13 +32,13 @@ Example #: [1]
 
 ## Declarative Approach [2 Minutes]
 
-1. **High-Level Process Description:** High-Level Description of the Process:
+1. **High-Level Process Description:**
 
 - The code divides the cooking procedure into four primary parts in the declarative approach: setting the grill to warm, seasoning the meat, cooking it, and serving it.
 - The code provides a higher-level perspective of the process by specifying what should happen at each stage of cooking the steak, rather than going into detail about how each step should be implemented.
 - The code is easier to read and maintain since the steps are defined in a more abstract way, which also helps to isolate issues.
 
-2. **Use of Data Structures:** Discuss the use of data structures (e.g., arrays, objects) to represent the process steps.
+2. **Use of Data Structures:**
 
 - The declarative method represents the cooking process using conditionals and straightforward variable assignments.
 - Grill and steak status data is stored in data structures such as variables (grillTemperature, steakTemperature).
@@ -47,4 +47,5 @@ Example #: [1]
 
 # Learning Outcome [1 Minute]
 
-- Reflect on what you've learned from analyzing these code examples in different paradigms.
+- Analyzing these approaches highlighted the trade-offs between detailed instruction (imperative) and abstract description (declarative) in programming.
+- It shows the importance of choosing the right paradigm based on factors like readability, maintainability, and problem-solving approach.
